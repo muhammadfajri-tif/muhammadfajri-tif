@@ -22,9 +22,10 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan minat dalam 
 
 Saya telah berkontribusi pada berbagai proyek yang melibatkan Cloud Computing seperti server configuration, automate deployment, dan setup CI/CD. Beberapa highlight termasuk:
 
-- Pengembangan sistem pengenalan objek real-time untuk aplikasi keamanan.
-- Analisis sentimen pada data sosial media menggunakan teknik NLP untuk memahami tren dan opini publik.
--
+- Mengatur konfigurasi web server di AWS
+- Mengatur automasi untuk deployment website di AWS
+- Membuat Infrastructure as a Code
+- Membuat [game TicTacToe](https://github.com/muhammadfajri-tif/tubes-03-1b)
 
 ## Menghubungi Saya
 

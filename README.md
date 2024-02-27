@@ -8,11 +8,11 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan minat dalam 
 
 - **Cloud Computing**: Pengalaman dalam mengatur automation dan mengonfigurasi cloud server. Berpengalaman dalam environment AWS dan GCP.
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,bash,docker,github,githubactions)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,bash,docker,github,githubactions)](https://muhammadfajri-tif.github.io/)
 
 - **Web-App Development**: Keahlian dalam membangun suatu website yang interaktif. Berpengalaman dalam menggunakan HTML, CSS, dan JavaScript untuk membangun website yang menarik dan informatif.
 
-  [![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,typescript,javascript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,nodejs,typescript,javascript)](https://muhammadfajri-tif.github.io/)
 
 ## Pendidikan
 
